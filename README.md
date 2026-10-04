@@ -32,8 +32,8 @@ them under `./RE-GCN_premodel/<dataset>/`. The path is set by `--peft_path` (def
 ## 📊 Dataset
 Supported datasets: `GDELT` (default), `Wiki`, `DuEE`.
 
-**Download:** <!-- TODO: replace the placeholder below with the actual download link(s) -->
-- Dataset download link: `https://drive.google.com/drive/folders/1EznrqYgCEYBemizo_gA3oI_AvbzKWSTl?usp=drive_link`
+**Download:** 
+- Dataset download link: [MMTKG](https://drive.google.com/drive/folders/1EznrqYgCEYBemizo_gA3oI_AvbzKWSTl?usp=drive_link)
 
 Place each dataset under `./dataset/<name>/` with the following layout:
 ```
